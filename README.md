@@ -7,11 +7,17 @@
 ![](https://img.shields.io/badge/License-MIT-blue "MIT")![](https://img.shields.io/badge/Status-Stable-green "S")![](https://img.shields.io/badge/Platform-Windows-lightgrey "WIndows")
 
 ✨ 特性
+
 🚀 一键操作：交互式菜单，无需复杂命令。
+
 💾 记忆功能：自动保存上次使用的文件夹，重启无需重新选择。
+
 🛡️ 安全稳定：内置驱动修复机制，完美处理路径空格、特殊字符及幽灵编码问题。
+
 🐞 日志系统：自带调试日志，出问题一目了然。
+
 🌏 深度兼容：已通过 Windows 11 IoT LTSC (嵌入式极简版) 及 Windows 11 25H2 严苛测试。
+
 🚪 自动提权：自动请求管理员权限 (UAC)，确保系统级目录操作无忧。
 
 🚀 快速开始
