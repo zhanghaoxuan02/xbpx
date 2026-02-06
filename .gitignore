@@ -1,0 +1,5 @@
+# 忽略用户生成的配置和日志
+config_path.ini
+debug_log.txt
+*.log
+*.bak
