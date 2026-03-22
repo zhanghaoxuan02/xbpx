@@ -23,7 +23,7 @@
 ## 🚀 快速开始
  **1. 下载** 
 
-下载项目中右侧版本下的文件列表。
+点击这个链接：https://github.com/zhanghaoxuan02/xbpx/releases    下载BAT文件
 
  **2. 运行** 
 
